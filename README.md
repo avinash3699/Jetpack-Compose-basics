@@ -1,5 +1,10 @@
 # Jetpack-Compose-basics
 
+## Optimizations
+
+* ### Donut-hole skipping
+  * [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
+
 ## Animation
 
 * ### Animating Visibility Changes
